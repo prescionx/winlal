@@ -1,4 +1,4 @@
-# lal v1
+# winlal v1
 A C# Form App for General purposes.
 
 En kısa sürede tamamlanacak, ve sıklıkla güncellenecektir. Takipte kalın.
